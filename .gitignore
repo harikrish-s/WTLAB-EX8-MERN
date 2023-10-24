@@ -1,4 +1,4 @@
 node_modules
-api/uploads/*
+server/uploads/*
 **/.env
 **/.DS_Store
